@@ -32,3 +32,9 @@ nav {
     text-align: center;
     font-size: 18px;
 }
+#bgtest1 {
+    background-image: url('bgtest1.png');
+}
+#bgtest2 {
+    background-image: url('bgtest2.png');
+}

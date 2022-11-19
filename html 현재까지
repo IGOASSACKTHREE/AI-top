@@ -22,12 +22,14 @@
           <div class="q"><h1>[ AI 톺아보기란 ]</h1></div><br>
           <div class="a"><h2>Al 톺(top)아보기의 이름에는 AI를 깊이 이해하고 top에서 바라보겠다는 의미와<br>‘샅샅히 살피다’ 라는 뜻의 순우리말인 ‘톺다’를 활용하여 AI를 자세히 탐구하겠다는 두 가지 의미를 내포하고 있다.</h2></div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
         </div>
+
         <div id="bgtest2">
           <div class="q"><h1>[ 프로젝트 소개 ]</h1></div><br>
           <div class="a"><h2>AI 톺아보기 프로젝트의 주제는 ‘손글씨 인식’으로, OCR 기능에 주력을 두고 있다.<br>프로그램 Tesseract를 메인으로 사용해 영어와 달리 매우 낮은 한글 손글씨 인식률을 높이는 것을 척도로 삼아 AI의 딥러닝이 개선되는 과정을 알아보았다.</h2></div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
         <div class="q"><h1>[ 프로젝트를 진행하게 된 이유 ]</h1></div>
         <div class="a"><h2>AI 톺아보기는 AI의 제작 과정과 작동 원리에 대해 심화탐구해보기 위함</h2></div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
         <div>
+
         <div class="q"><h1>[ 프로그램 코드 공유 ]</h1></div>
           <div style="text-align: center;"
             <div class="cat">
@@ -37,43 +39,233 @@
         </div>
           <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
           
-        </div>
+      </div>
         <div class="q"><h1>[ 학습&이용한 프로그램 및 언어 ]</h1></div>
-        <div class="a"><h2>
+        <div class="pig">
+        <h2>
           pip: python 라이브러리 패키지 관리 시스템
-        </h2></div><br><br><br>
-        <div class="a"><h2>
+        </h2>
+        </div><br><br><br>
+
+        <div class="pig">
+        <h2>
           anaconda: AI의 딥러닝이나 데이터 분석을 돕는 python 확장 라이브러리
-        </h2></div><br><br><br></div>
-        <div class="a"><h2>
-           VS code: 프로그램 개발에 활용한 텍스트 에디터
-        </h2></div><br><br><br></div>
-        <div class="a"><h2>
+        </h2>
+        </div><br><br><br></div>
+        <div class="pig">
+        <h2>
+          VS code: 프로그램 개발에 활용한 텍스트 에디터
+        </h2>
+        </div><br><br><br></div>
+        <div class="pig">
+        <h2>
           python: 코드를 한줄씩 내려가며 작성하는 인터프리터 방식의 프로그래밍 언어
-        </h2></div><br><br><br></div>
-        <div class="a"><h2>
+        </h2>
+        </div><br><br><br>
+
+        <div class="pig">
+        <h2>
           css: 웹 구성 요소로 색상이나 크기 등의 웹 페이지의 디자인 요소를 담당한다.(웹사이트 제작)
-        </h2></div><br><br><br></div>
-        <div class="a"><h2>
-          HTML: 웹 구성 요소로 글의 내용 등 웹 페이지의 뼈대를 담당한다(웹사이트 제작)
-         </h2></div><br><br><br></div>
-         <div class="a"><h2>
+        </h2>
+        </div><br><br><br>
+        <div class="pig"><h2>
+          HTML: 웹 구성요소로 글의 내용 등 웹 페이지의 뼈대를 담당한다(웹사이트 제작)
+        </h2>
+        </div><br><br><br>
+        <div class="pig">
+        <h2>
           pycharm: python 프로그램의 통합 개발 환경(IDE)(프로그래밍)
-        </h2></div><br><br><br></div>
-        <div class="a"><h2>
+        </h2>
+        </div><br><br><br>
+        <div class="pig">
+        <h2>
           Git-hub: 버전 관리 툴로 여러가지 오픈소스를 포함하고 있다.(프로그램 공유)
-        </h2></div><br><br><br></div>
-        <div class="a"><h2>
+        </h2>
+        </div><br><br><br>
+        <div class="pig">
+        <h2>
           tesseract-OCR: 오픈 소스 글자 인식 기술
-        </h2></div><br><br><br></div>
-        <div class="a"><h2>
+        </h2>
+        </div><br><br><br>
+        <div class="pig">
+        <h2>
           open-CV: 영상처리 오픈소스 라이브러리
-        </h2></div><br><br><br></div>
-        <div class="a"><h2>
+        </h2>
+        </div><br><br><br>
+        <div class="pig">
+        <h2>
           cv2: 이미지 전처리
-        </h2></div><br><br><br></div>
-        <div class="a"><h2>
-          Flask:
-        </h2></div><br><br><br></div>
-      </body>
+        </h2>
+        </div><br><br><br>
+
+        <div class="q"><h1>[ 프로그래밍 과정 기록]</h1></div>
+        <div class="c">
+        <h1>
+          1. anaconda 활용해서 pytesseract, pillow 등 다양한 프로그램 설치
+          <br><br><br>
+        </h1>
+        </div>
+        <div class="ca">
+          <img src="https://i.ibb.co/k0Jp373/image.png"/>
+          anaconda로 pillow 다운로드
+        </div><br><br><br><br><br><br><br><br><br>
+          
+        </h1>
+        </div>
+
+        <br><br><br><br><br><br><br>
+        <div class="c">
+        <h1>
+          2. python으로 tesseract ocr 기능 사용
+        </h1>
+        </div>
+
+        <br><br><br><br><br><br><br>
+        <div class="pig">
+        <h1>
+         -> 인식률 매우 낮음 확인
+        </h1>
+        </div>
+
+        <br><br><br><br><br><br><br>
+        <div class="b">
+        <h1>
+          #개발 이슈 1, 2, 3
+        </h1>
+        </div>
+
+        <br><br><br><br><br><br><br>
+        <div class="c">
+        <h1>
+          3. cv2 활용해서 전처리 작업
+        </h1>
+        </div>
+
+        <div class="ca">
+          <h1>
+            <img src="https://i.ibb.co/1XLD2nn/001.png"/>
+            <br><br><br><br><br><br><br>
+            <img src="https://i.ibb.co/Jyr74Kv/002.png"/>
+            <br><br><br><br><br><br><br>
+            <img src="https://i.ibb.co/k6c9bMZ/003.png"/>
+            <br><br><br><br><br><br><br>
+            <img src="https://i.ibb.co/xMkwSYD/image.png"/>
+        <br><br><br><br><br><br><br>
+        </h1>
+    </div>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <div class="ca"><h1>
+          이미지 전처리 과정
+        </h1>
+        </div>
+
+        <div class="b">
+          <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <h1>
+          #개발 이슈 5, 6
+        </h1>
+        </div>
+
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <div class="c">
+        <h1>
+          4. JTessBoxEditor 활용해서 tesseract 인식률 높이는 작업
+        </h1>
+        </div>
+
+        <br><br>
+        <div class="pig">
+        <h1>
+          -> png 에서 tif 파일로 변경
+        </h1>
+        </div>
+
+        <br><br><br><br><br><br><br>
+        <div class="pig">
+        <h1>
+          -> box editor에서 글자 인식 수정
+        <div class="ca">
+            <h1>
+              <img src="https://i.ibb.co/G9GqQSs/004.png"/>
+        </div>
+        </div><br><br><br><br><br><br><br><br>
+        </h1>
+        
+
+
+        <br><br><br><br>
+        <div class="pig">
+        <h1>
+          -> box file 만들고 트레이닝 시킴
+        </h1>
+        </div>
+
+        <div class="ca">
+          <h1>
+            <img src="https://i.ibb.co/BwmkM9c/005.png"/>
+          </h1>
+          </div>
+
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <div class="pig">
+        <h1>
+          -> 이 과정으로 kor.traineddata 파일 만듦
+        </h1>
+        </div>
+
+        <br><br>
+        <div class="b">
+        <h1> 
+          #개발 이슈 7, 8
+        </h1>
+        </div>
+
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <div class="c">
+        <h1>
+          5. kor.traineddata 파일 tesseract의 tessdata 폴더에 넣고 python으로 인식률 변화한 결과 확인
+        </h1>
+        </div>
+        <div class="q"><h1>[ 그 외 기록 ]</h1></div>
+        <div class="ca">
+          <h1>
+            <img src="https://i.ibb.co/Cnw0J37/006.png"/>
+        </div>
+        </h1>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <div class="ca">
+          <h1>
+            <img src="https://i.ibb.co/DzHWhXM/007.png"/>
+          </h1>
+          </div>
+          <br><br><br><br><br><br><br>
+          <br><br><br><br><br><br><br>
+          <br><br><br><br><br><br><br>
+          <br><br><br><br>
+          <div class="a">
+          <h1>
+            글씨체에 따른 인식률
+          </h1>
+        </div>  
+        
+        <br><br><br>
+        <div class="q"> <h1>
+          [우리 팀이 생각하는 한글 OCR의 개선 방향성]
+        </h1> </div>
+        <div class="pig"> <h1><br><br><br>
+          - 디지털 텍스트에 한정되지 않고 다양한 글씨체를 알아볼 수 있는 것이 가장 중요<br>
+          - 기호와 글자를 구분하는 것 또한 필요 
+        </h1> </div><br><br><br><br>
+        <div class="q"> <h1>
+          [보완할 점]
+        </h1> </div><br><br>
+        <div class="pig"> <h1>
+          - 충분한 시간을 갖고 좀 더 다양한 사람의 글씨체와 다양한 문장을 활용해
+          <br>
+           실험적인 프로젝트가 아니라 장기적으로 실생활에서도 유용하게 사용할 수 있는 
+           <br>
+           프로그램을 만들어 보고 싶다.
+        </h1> </div>
+      </div>
+    </body>
 </html>

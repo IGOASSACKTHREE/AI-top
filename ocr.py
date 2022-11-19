@@ -5,7 +5,7 @@ from PIL import Image
 import pytesseract
 
 #이미지(경로) 선택
-image_path = r"이미지 경로"
+image_path = r"C:\Users\하온\Desktop\창의융합상상소\산출물\ocr\안녕하세요.png"
 
 #Tesseract 파일 위치
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'

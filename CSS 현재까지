@@ -28,10 +28,7 @@ nav {
     font-size: 20px;
     text-shadow:4px 4px 4px rgb(253, 211, 93);
 }
-.a {
-    text-align: center;
-    font-size: 18px;
-}
+
 #bgtest1 {
     background-image: url('https://i.ibb.co/ssVK6tg/bgtest1.png');
 }
@@ -48,7 +45,24 @@ img {
     width: 250%;
     object-fit: contain;
    }
-   .cat {
+.cat {
     height:250px;
     width: 650px;
+    text-align: center;
    }
+.ca{
+    height:250px;
+    width: 650px;
+    text-align: center;
+}
+.b{
+    color: rgb(74, 114, 83);
+    text-align: center;
+}
+.c{
+    color: rgb(177, 101, 25);
+    text-align: center;
+}
+.pig{
+    text-align: center;
+}

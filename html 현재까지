@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+    <head>
+      <meta charset="utf-8">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@500&display=swap" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="index.css">
+      
+      <title>A top</title>
+        <header>
+          <p id="title">AI 톺아보기</p>
+          <nav>
+            <span class="r"><h1>[이과싹쓰리]</h2></span>
+            <span><h2>우한결 최수인 정하온</h2></span>
+          </nav>
+        </header>
+    </head>
+    <body>
+        <div id="bgtest1">
+          <br><br><br><br><br><br><br><br><br>
+          <div class="q"><h1>[ AI 톺아보기란 ]</h1></div><br>
+          <div class="a"><h2>Al 톺(top)아보기의 이름에는 AI를 깊이 이해하고 top에서 바라보겠다는 의미와<br>‘샅샅히 살피다’ 라는 뜻의 순우리말인 ‘톺다’를 활용하여 AI를 자세히 탐구하겠다는 두 가지 의미를 내포하고 있다.</h2></div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        </div>
+        <div id="bgtest2">
+          <div class="q"><h1>[ 프로젝트 소개 ]</h1></div><br>
+          <div class="a"><h2>AI 톺아보기 프로젝트의 주제는 ‘손글씨 인식’으로, OCR 기능에 주력을 두고 있다.<br>프로그램 Tesseract를 메인으로 사용해 영어와 달리 매우 낮은 한글 손글씨 인식률을 높이는 것을 척도로 삼아 AI의 딥러닝이 개선되는 과정을 알아보았다.</h2></div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <div class="q"><h1>[ 프로젝트를 진행하게 된 이유 ]</h1></div>
+        <div class="a"><h2>AI 톺아보기는 AI의 제작 과정과 작동 원리에 대해 심화탐구해보기 위함</h2></div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
+        <div>
+        <div class="q"><h1>[ 프로그램 코드 공유 ]</h1></div>
+          <div style="text-align: center;"
+            <div class="cat">
+             <img src="https://i.ibb.co/YbXzhzY/20221119-023106.png"/>
+            </div>
+          </div>
+        </div>
+          <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+          
+        </div>
+        <div class="q"><h1>[ 학습&이용한 프로그램 및 언어 ]</h1></div>
+        <div class="a"><h2>
+          pip: python 라이브러리 패키지 관리 시스템
+        </h2></div><br><br><br>
+        <div class="a"><h2>
+          anaconda: AI의 딥러닝이나 데이터 분석을 돕는 python 확장 라이브러리
+        </h2></div><br><br><br></div>
+        <div class="a"><h2>
+           VS code: 프로그램 개발에 활용한 텍스트 에디터
+        </h2></div><br><br><br></div>
+        <div class="a"><h2>
+          python: 코드를 한줄씩 내려가며 작성하는 인터프리터 방식의 프로그래밍 언어
+        </h2></div><br><br><br></div>
+        <div class="a"><h2>
+          css: 웹 구성 요소로 색상이나 크기 등의 웹 페이지의 디자인 요소를 담당한다.(웹사이트 제작)
+        </h2></div><br><br><br></div>
+        <div class="a"><h2>
+          HTML: 웹 구성 요소로 글의 내용 등 웹 페이지의 뼈대를 담당한다(웹사이트 제작)
+         </h2></div><br><br><br></div>
+         <div class="a"><h2>
+          pycharm: python 프로그램의 통합 개발 환경(IDE)(프로그래밍)
+        </h2></div><br><br><br></div>
+        <div class="a"><h2>
+          Git-hub: 버전 관리 툴로 여러가지 오픈소스를 포함하고 있다.(프로그램 공유)
+        </h2></div><br><br><br></div>
+        <div class="a"><h2>
+          tesseract-OCR: 오픈 소스 글자 인식 기술
+        </h2></div><br><br><br></div>
+        <div class="a"><h2>
+          open-CV: 영상처리 오픈소스 라이브러리
+        </h2></div><br><br><br></div>
+        <div class="a"><h2>
+          cv2: 이미지 전처리
+        </h2></div><br><br><br></div>
+        <div class="a"><h2>
+          Flask:
+        </h2></div><br><br><br></div>
+      </body>
+</html>
